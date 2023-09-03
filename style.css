@@ -1,0 +1,14 @@
+main {
+	text-align: center;
+	left: 300px
+}
+.cards {
+	align-items: center;
+}
+body {
+	background-color: rgb(133, 93, 207);
+}
+.card-body {
+	background-color: rgb(29, 40, 141);
+	color: rgb(255, 255, 255);
+}
